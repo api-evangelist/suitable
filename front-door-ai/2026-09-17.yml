@@ -1,0 +1,31 @@
+# Front Door AI Index — suitable — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: suitable
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: suitable.ai
+  final_host: suitable.ai
+  ownership: own
+  owner: suitable
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 39
+  host_score: 39
+  density: 43.05
+  words: 906
+  tiers:
+    agentic: 3
+    core: 36
+    model: 0
+  ambiguous: 6
+  top_terms:
+    AI: 33
+    ML: 3
+    agent: 3
+    AI agent: 2
+    automation: 2
+    conversational AI: 1
+    smart: 1
